@@ -1,0 +1,27 @@
+body {
+  background: url(/assets/wave.svg),
+    linear-gradient(222.38deg, #872a95, #35297f 41.75%, #35297f) no-repeat;
+  background-size: cover;
+  overflow: hidden;
+  color: white;
+}
+.heading-1 {
+  font-family: "Nunito Sans ExtraBold", sans-serif;
+  font-weight: 800;
+}
+.heading-2 {
+  font-family: "Nunito Sans Black", sans-serif;
+  font-weight: 900;
+}
+.paragraph {
+  font-family: "Nunito Sans Regular", sans-serif;
+  font-weight: 400;
+}
+/* links to add in the html page */
+/* <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@200&family=Nunito+Sans:ital,opsz,wght@0,6..12,400;0,6..12,500;0,6..12,800;0,6..12,900;1,6..12,800&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" type="text/css" href="app.css" />*/
